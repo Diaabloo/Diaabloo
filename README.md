@@ -8,13 +8,15 @@ I’m a Full-Stack & DevOps/DevSecOps Software Engineer passionate about blendin
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Diaabloo&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Diaabloo&theme=shadow_green&hide_border=false)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Diaabloo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Diaabloo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amine-el-alami-520513213/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amineelalami05@gmail.com)
