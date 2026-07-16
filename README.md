@@ -15,9 +15,22 @@ I’m a Full-Stack & DevOps/DevSecOps Software Engineer passionate about blendin
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
-<!-- Row 2: Clean Wide Contribution Graph (Highly Stable) -->
+## 🏆 Achievements & Stats:
+
+<!-- Trophies Widget (Highly popular, uses high-speed cached API) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diaabloo&theme=github-light-green&bg_color=0D1117&color=70A37F&line=70A37F&point=FFFFFF&area=true&hide_border=true" width="97%" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Diaabloo&theme=dracula&no-bg=true&margin-w=15&column=5" alt="My Trophies" />
+</p>
+
+<!-- Left: Main Core Stats | Right: Detailed Language Breakdown -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages" />
+</p>
+
+<!-- Bottom: Streak Tracker (Proves your consistency) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diaabloo&theme=shadow_green&hide_border=false" width="97%" alt="My Contribution Streak" />
 </p>
 
 ---
