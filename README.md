@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Full-Stack & DevOps Software Engineer passionate about blending code and infrastructure so my apps are powerful and elegant, mastering the latest web, cloud, and AI technologies.<br>
+I’m a Full-Stack & DevOps/DevSecOps Software Engineer passionate about blending code and infrastructure so my apps are powerful and elegant, mastering the latest web, cloud, and AI technologies.<br>
 
 ---
 
