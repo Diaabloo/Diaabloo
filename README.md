@@ -8,11 +8,11 @@ I’m a Full-Stack & DevOps/DevSecOps Software Engineer passionate about blendin
 
 
 ## 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+[![My GitHub Stats]](https://github-readme-stats.vercel.app/api?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Diaabloo&theme=shadow_green&hide_border=false)
+[My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Diaabloo&theme=shadow_green&hide_border=false)
 
-![My Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[My Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Diaabloo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🔝 Top Contributed Repo
