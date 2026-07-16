@@ -26,7 +26,7 @@ I’m a Full-Stack & DevOps/DevSecOps Software Engineer passionate about blendin
 
 ## 🏆 Achievements & Stats:
 
-<!-- Trophies Widget (Highly popular, uses high-speed cached API) -->
+<!-- Trophies Widget -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Diaabloo&theme=dracula&no-bg=true&margin-w=15&column=5" alt="My Trophies" />
 </p>
